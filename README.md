@@ -1,2 +1,4 @@
 # Keycap-And-Legend-CAD-Models
-CAD models for OEM and Cherry Keycaps. Included is a .STP file for both the keycap and the legend. This removes the need to add the legends in post render.
+
+![Render of Keycaps with HHKB](https://github.com/mattling9/Keycap-And-Legend-CAD-Models/blob/master/Renders/GMK%20Red%20Samurai%20%2B%20HHKB%202.jpg)
+
